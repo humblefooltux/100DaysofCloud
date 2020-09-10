@@ -14,16 +14,16 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Rahul's Cloud Journey
 
-[✍️ Introduce yourself]
+Hey, I am Rahul. I want to learn more and all about cloud, upskill myself and learn from fellow cloud enthusiasts.
 
-[✍️ Tell us why you started this challenge]
+I want to pivot my career into the Cloud/DevOps area and wanted a routine discipline of learning. Hopefully I stick to this!
 
-[✍️ Tell us where you want to be at the end of the challenge]
+I want to be a cloud engineer with multi cloud knowledge at the end of 100 days.
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [@rahulnv](https://twitter.com/rahulnv)
+- [Linkedin](https://www.linkedin.com/in/rahulnairv)
 
 ## Stepping out the door
 
