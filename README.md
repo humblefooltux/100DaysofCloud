@@ -35,7 +35,7 @@ I want to be a cloud engineer with multi cloud knowledge at the end of 100 days.
 - [ ] ☁️ 6 > [Sixth Day - 12th Oct](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [Seventh Day - Oct 19](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [Day Eight - Oct 23](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [](Journey/009/Readme.md)
+- [ ] ☁️ 9 > [Ninth Day - Oct 26](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
 ## Walking down the road
