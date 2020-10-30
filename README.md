@@ -27,7 +27,7 @@ I want to be a cloud engineer with multi cloud knowledge at the end of 100 days.
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
+- [ ] ☁️ 1 > [My First Day - Sep 9 2020](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [Second Day](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [Third Day](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [Fourth Day - Oct 8](Journey/004/Readme.md)
@@ -40,7 +40,7 @@ I want to be a cloud engineer with multi cloud knowledge at the end of 100 days.
 
 ## Walking down the road
 
-- [ ] ☁️ 11 > [](Journey/011/Readme.md)
+- [ ] ☁️ 11 > [October 29th](Journey/011/Readme.md)
 - [ ] ☁️ 12 > [](Journey/012/Readme.md)
 - [ ] ☁️ 13 > [](Journey/013/Readme.md)
 - [ ] ☁️ 14 > [](Journey/014/Readme.md)
