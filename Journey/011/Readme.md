@@ -2,9 +2,9 @@
 
 ## Fundamentals
 
-Authentication and Authorization
-Azure Solutions
-Security
+-> Authentication and Authorization
+-> Azure Solutions
+-> Security
 
 ## Social Proof
 
