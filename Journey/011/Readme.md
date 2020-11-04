@@ -2,8 +2,9 @@
 
 ## Fundamentals
 
-Storage
-Databases
+-> Authentication and Authorization
+-> Azure Solutions
+-> Security
 
 ## Social Proof
 
